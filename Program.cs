@@ -22,11 +22,11 @@ namespace searchfight
             var programmingLanguages = GetProgrammingLanguageList(args);
 
             programmingLanguages.ForEach(item =>
-                 Console.WriteLine("{0} Google Search: {1} MSN Search: {2}", item.Name, item.GoogleTotalResult, item.BingTotalResult)
+                 Console.WriteLine("{0} Google Search: {1} Bing Search: {2}", item.Name, item.GoogleTotalResult, item.BingTotalResult)
             );
 
             Console.WriteLine("Google Winner: {0}", programmingLanguages.GetGoogleWinner);
-            Console.WriteLine("MSN Winner: {0}", programmingLanguages.GetBingWinner);
+            Console.WriteLine("Bing Winner: {0}", programmingLanguages.GetBingWinner);
             Console.WriteLine("TOTAL Winner: {0}", programmingLanguages.GetTotalWinner);
         }
 
