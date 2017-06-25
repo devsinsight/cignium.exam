@@ -11,7 +11,7 @@ namespace searchfight
 {
     class Program
     {
-        private static string googleKey = "AIzaSyCkXGBrE4_mpP8y5OZyEVLonG2OJR1xgQk";
+        private static string googleKey = "AIzaSyAoa6FxUYEg8YkNzPw4ri0DpV9EnRbxVHA";
         private static string bingKey = "17a271b424764ae5985950f1bf1f2cb2";
         private static string GOOGLE_API_URL = String.Format("https://www.googleapis.com/customsearch/v1?key={0}&cx=017576662512468239146:omuauf_lfve&q=", googleKey);
         private static string BING_API_URL = "https://api.cognitive.microsoft.com/bing/v5.0/search?q=";
