@@ -1,0 +1,8 @@
+C:\Projects\cignium\searchfight\bin\Debug\netcoreapp1.1\searchfight.deps.json
+C:\Projects\cignium\searchfight\bin\Debug\netcoreapp1.1\searchfight.runtimeconfig.json
+C:\Projects\cignium\searchfight\bin\Debug\netcoreapp1.1\searchfight.runtimeconfig.dev.json
+C:\Projects\cignium\searchfight\bin\Debug\netcoreapp1.1\searchfight.dll
+C:\Projects\cignium\searchfight\bin\Debug\netcoreapp1.1\searchfight.pdb
+C:\Projects\cignium\searchfight\obj\Debug\netcoreapp1.1\searchfight.AssemblyInfo.cs
+C:\Projects\cignium\searchfight\obj\Debug\netcoreapp1.1\searchfight.dll
+C:\Projects\cignium\searchfight\obj\Debug\netcoreapp1.1\searchfight.pdb

@@ -1,0 +1,11 @@
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.exe
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.deps.json
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.runtimeconfig.json
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.runtimeconfig.dev.json
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.dll
+C:\Projects\cignium\searchfight\bin\release\netcoreapp1.1\win10-x64\searchfight.pdb
+C:\Projects\cignium\searchfight\obj\release\netcoreapp1.1\win10-x64\searchfight.AssemblyInfo.cs
+C:\Projects\cignium\searchfight\obj\release\netcoreapp1.1\win10-x64\searchfight.dll
+C:\Projects\cignium\searchfight\obj\release\netcoreapp1.1\win10-x64\searchfight.pdb
