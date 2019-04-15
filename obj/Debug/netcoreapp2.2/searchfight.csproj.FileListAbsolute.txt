@@ -1,0 +1,11 @@
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.csprojAssemblyReference.cache
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.csproj.CoreCompileInputs.cache
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.AssemblyInfoInputs.cache
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.AssemblyInfo.cs
+C:\Solutions\Cignium\cignium.exam\bin\Debug\netcoreapp2.2\searchfight.deps.json
+C:\Solutions\Cignium\cignium.exam\bin\Debug\netcoreapp2.2\searchfight.runtimeconfig.json
+C:\Solutions\Cignium\cignium.exam\bin\Debug\netcoreapp2.2\searchfight.runtimeconfig.dev.json
+C:\Solutions\Cignium\cignium.exam\bin\Debug\netcoreapp2.2\searchfight.dll
+C:\Solutions\Cignium\cignium.exam\bin\Debug\netcoreapp2.2\searchfight.pdb
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.dll
+C:\Solutions\Cignium\cignium.exam\obj\Debug\netcoreapp2.2\searchfight.pdb

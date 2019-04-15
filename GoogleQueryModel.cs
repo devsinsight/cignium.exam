@@ -14,6 +14,6 @@ namespace searchfight
 
     public class GoogleRequestModel {
         public string title { get; set; }         
-        public int totalResults { get; set; }
+        public long totalResults { get; set; }
     }
 }

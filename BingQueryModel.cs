@@ -6,6 +6,6 @@ namespace searchfight
     }
 
     public class BingWebPage{
-        public int totalEstimatedMatches { get; set; }
+        public long totalEstimatedMatches { get; set; }
     }
 }

@@ -1,0 +1,14 @@
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.exe
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.deps.json
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.runtimeconfig.json
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.runtimeconfig.dev.json
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.dll
+C:\Solutions\Cignium\cignium.exam\bin\Release\netcoreapp2.2\win10-x64\searchfight.pdb
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.csprojAssemblyReference.cache
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.csproj.CoreCompileInputs.cache
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.AssemblyInfoInputs.cache
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.AssemblyInfo.cs
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.dll
+C:\Solutions\Cignium\cignium.exam\obj\Release\netcoreapp2.2\win10-x64\searchfight.pdb
