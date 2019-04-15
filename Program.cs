@@ -30,10 +30,12 @@ namespace searchfight
                                     .Select(x => new { Name=x.Key, Total = x.Sum( y => y.Total) })
                                     .OrderByDescending( z => z.Total)
                                     .First();
+
             var getGoogleWinner = results
                                     .Where(x => x.Engine == "GOOGLE")
                                     .OrderByDescending(x => x.Total)
                                     .First();
+                                    
             var getBingWinner = results
                                     .Where(x => x.Engine == "BING")
                                     .OrderByDescending(x => x.Total)

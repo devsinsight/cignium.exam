@@ -1,10 +1,12 @@
 # CIGNIUM EXAM SEARCH FIGHT
 
-This is the search fight exam solution. You can find the .exe in: cignium.exam/bin/release/netcoreapp1.1/win10-x64/searchfight.exe
+This is the search fight exam solution. You can find the .exe in: cignium.exam/bin/release/netcoreapp2.2/win10-x64/searchfight.exe
 
-# Video Resolution:
+# Video:
 
 https://www.screencast.com/t/5gEpv0QxeEvP
+
+# Consideration:
 
 Please note that the google api keys and the bing api keys has some restrictions:
 
